@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/147/trunk/samples/simple
+END
+login_ravi.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/60/trunk/samples/simple/login_ravi.php
+END
+jsontest.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/134/trunk/samples/simple/jsontest.php
+END
+logout.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/18/trunk/samples/simple/logout.php
+END
+phptests.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/147/trunk/samples/simple/phptests.php
+END
+main_login.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/60/trunk/samples/simple/main_login.php
+END
+authenticate.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/18/trunk/samples/simple/authenticate.php
+END
+templatehome.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/101/trunk/samples/simple/templatehome.html
+END
+loginnew.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/60/trunk/samples/simple/loginnew.php
+END
+loginpage_ravi.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/60/trunk/samples/simple/loginpage_ravi.html
+END
+Checklogin.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/samples/simple/Checklogin.php
+END
+dbaccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/61/trunk/samples/simple/dbaccess.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/57/trunk/samples/simple/login.php
+END

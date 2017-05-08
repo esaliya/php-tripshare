@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=iso-8859-1"/>
+    <link rel="stylesheet" href="../../styles/style.css" type="text/css"/>
+    <title>TripShare</title>
+</head>
+<body>
+<div class="content">
+    <div class="header">
+        <div class="top_info">
+
+
+        </div>
+        <div class="logo">
+            <h1><a href="#" title="TrpShare Home"><span class="dark">Trip</span>Share</a></h1>
+        </div>
+    </div>
+
+    <div class="bar">
+        <ul>
+            <li class="active">Home</li>
+            <li><a href="#" accesskey="s">Search</a></li>
+        </ul>
+    </div>
+    <div class="search_field">
+        <form method="post" action="?">
+            <div class="search_form">
+                <p>Search Trips: <input type="text" name="search" class="search"/> <input type="submit" value="Search"
+                                                                                            class="submit"/> <a
+                        class="grey" href="#">Advanced</a></p>
+            </div>
+        </form>
+
+
+        <p>&nbsp;</p>
+    </div>
+
+    <div class="left">
+        <h3>How TripShare Works:</h3>
+
+        <div class="left_box">
+
+            <p>TripShare lets you share your wonderful memories with users around the globe. blah<br> blah<br> blah<br><br>SomeImage</p>
+        </div>
+    </div>
+    <div class="right">
+
+        <h3>Most Popular Trips:</h3>
+
+        <div class="right_articles">
+            <p><img src="../../images/flower.jpg" alt="Image" title="Image" class="image"/><b>Intimate Escapes</b><br/>The
+                This is one of the best trips we ever went. Blah blah ...</p>
+        </div>
+        <div class="right_articles">
+            <p><img src="../../images/trip1/beach.jpg" alt="Image" title="Image" class="image"/><b>Along the Road</b><br/>Beautiful
+            beaches along the roads of Sri Lanka</p>
+        </div>
+
+        <h3>Recently Shared Trips:</h3>
+
+        <div class="right_articles">
+            <p><img src="../../images/pool.jpg" alt="Image" title="Image" class="image"/><b>The Best Place to Relax </b><br/>
+                Luxurious hotels and great hospitality at blah blah... </p>
+        </div>
+        <div class="right_articles">
+            <p><img src="../../images/wonderworks.jpg" alt="Image" title="Image" class="image"/><b>Wonderworks</b><br/>
+                This trip was lovely. Specially the upside down building of Wonderworks. Blah blah blah...</p>
+        </div>
+        <div class="right_articles">
+            <p><img src="../../images/waterfall.jpg" alt="Image" title="Image" class="image"/><b>Beautiful Waterfalls</b><br/>
+                We felt like going to paradise. Blah blah blah..
+            </p>
+        </div>
+
+        <div class="right_articles"></div>
+    </div>
+    <div class="footer">
+        <p><a href="#">Contact</a> | <a href="#">Accessibility</a> | <a href="#">Disclaimer</a><br/>
+            &copy; Copyright 2010 TripShare</p>
+    </div>
+</div>
+</body>
+</html>
